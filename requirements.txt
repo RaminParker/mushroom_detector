@@ -2,9 +2,6 @@ bs4
 fastai
 fastbook
 fastcore
-fastdtw
-fastprogress
-fastrlock
 Flask
 ipykernel
 ipython
@@ -12,3 +9,7 @@ ipywidgets
 jupyter
 numpy
 pandas
+voila
+pillow
+packaging
+ipywidgets
