@@ -4,7 +4,8 @@ This app is just a proof of concept (POC)!
 The image classification model can be further optimized. The goal of the project was to develop a POC-model and deploy it on [MyBinder](https://mybinder.org/)
 
 ## Introduction
-- There are 9 folders of images of most common Northern European mushrooms genuses inside of the dataset. Each folder consist of 300 to 1500 selected images of mushrooms genuses. - The link to the dataset is [here](https://www.kaggle.com/maysee/mushrooms-classification-common-genuss-images)
+- There are 9 folders of images of most common Northern European mushrooms genuses inside of the dataset. Each folder consist of 300 to 1500 selected images of mushrooms genuses. 
+- The link to the dataset is [here](https://www.kaggle.com/maysee/mushrooms-classification-common-genuss-images)
 
 ### Detectable Mushrooms
 The image classifier can classify the following mushrooms:
