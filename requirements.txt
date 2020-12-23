@@ -13,3 +13,5 @@ voila
 pillow
 packaging
 ipywidgets
+tornado>=6.1.0
+nbconvert<7, >=6.0.0
