@@ -13,6 +13,5 @@ voila
 pillow
 packaging
 ipywidgets
-tornado
-nbconvert
+tornado>=6.1.0
 graphviz
